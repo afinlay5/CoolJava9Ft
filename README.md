@@ -2,7 +2,7 @@
 Gradle source code repository for the examples from my blog post, http://bit.ly/CoolJava9Ft.
 Built and tested on SUSE Linux.
 
-![alt text](https://raw.githubusercontent.com/afinlay5/UnknownJavaFt/master/blog.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/CoolJava9Ft/master/blog.png)
 
 # Requirements
 - Gradle 4.7 
@@ -16,4 +16,4 @@ Built and tested on SUSE Linux.
 - None (04/28/2018).
 
 # Execution Screenshot
-![alt text](https://raw.githubusercontent.com/afinlay5/UnknownJavaFt/master/gradle_run.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/CoolJava9Ft/master/gradle_run.png)
